@@ -30,6 +30,7 @@ ul {
     top: 0;
     width: 100%;
     z-index: 1;
+    margin-left: -6%;
    }
 
 tr {
